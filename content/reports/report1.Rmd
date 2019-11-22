@@ -8,10 +8,8 @@ tags:
 - regression
 categories: R
 output: 
-  html_document:
-    keep_md: true
-    dev: "svg"
   blogdown::html_page:
+    keep_md: true
     dev: "svg"
 ---
 
