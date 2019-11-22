@@ -12,6 +12,7 @@ output:
     toc: true
     fig_width: 6
     dev: "svg"
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
