@@ -9,7 +9,8 @@ tags:
 categories: R
 output: 
   blogdown::html_page:
-    keep_md: true
+    toc: true
+    fig_width: 6
     dev: "svg"
 ---
 
