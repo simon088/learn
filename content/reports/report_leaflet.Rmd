@@ -2,11 +2,11 @@
 title: "leaflet + widgeframe"
 author: "Bhaskar V. Karambelkar"
 date: 2019-11-22
+categories: R
+tags:
+  - R Markdown
 output: 
   blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
     keep_md: true
 ---
 
