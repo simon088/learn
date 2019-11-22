@@ -1,5 +1,5 @@
 ---
-title: "Hello R Markdown"
+title: "Hello R Markdown with SVG"
 author: "Frida Gomam"
 date: '2015-07-23'
 tags:
@@ -8,8 +8,6 @@ tags:
 - regression
 categories: R
 output: 
-  html_document:
-    keep_md: true
   blogdown::html_page:
     dev: "svg"
 ---
@@ -18,7 +16,7 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# R Markdown with SVG
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
