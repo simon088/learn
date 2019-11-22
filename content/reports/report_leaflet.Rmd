@@ -1,9 +1,13 @@
 ---
 title: "leaflet + widgeframe"
 author: "Bhaskar V. Karambelkar"
-date: 2017-08-06T11:45:00-05:00
-categories: ["widgetframe"]
-tags: ["leaflet"]
+date: 2019-11-22
+output: 
+  blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: "svg"
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
