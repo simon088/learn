@@ -1,17 +1,13 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: '2015-07-23'
+date: '2015-07-24'
 tags:
 - R Markdown
 - plot
 - regression
 categories: R
 output: 
-  html_document:
-    toc: true
-    fig_width: 6
-    dev: "svg"  
   blogdown::html_page:
     toc: true
     fig_width: 6
