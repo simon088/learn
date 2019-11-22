@@ -2,9 +2,6 @@
 title: "leaflet + widgeframe"
 author: "Bhaskar V. Karambelkar"
 date: 2019-11-22
-categories: R
-tags:
-  - R Markdown
 ---
 
 ```{r setup, include=FALSE}
