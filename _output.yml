@@ -2,3 +2,5 @@ blogdown::html_page:
   toc: true
   fig_width: 6
   dev: "svg"
+html_document:
+  keep_md: true

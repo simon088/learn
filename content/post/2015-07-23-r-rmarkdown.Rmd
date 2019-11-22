@@ -7,9 +7,6 @@ tags:
 - plot
 - regression
 categories: R
-output: 
-  html_document:
-    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
