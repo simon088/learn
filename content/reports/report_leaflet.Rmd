@@ -5,9 +5,6 @@ date: 2019-11-22
 categories: R
 tags:
   - R Markdown
-output: 
-  blogdown::html_page:
-    keep_md: true
 ---
 
 ```{r setup, include=FALSE}

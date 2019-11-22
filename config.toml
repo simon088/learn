@@ -1,4 +1,6 @@
-baseURL = "/"
+baseurl = "/"
+relativeurls = true
+googleAnalytics = ""
 languageCode = "en-US"
 defaultContentLanguage = "en"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
